@@ -27,7 +27,7 @@ Dane należy wpisać **w jednym wierszu** w tym pliku według tego schematu:
 1. Piątek, Mariusz
 1. Ponieważ, Paweł
 1. Portalski, Sylwester
-1. Ruchlewicz, Natalia
+1. [Ruchlewicz, Natalia](nruchlewicz.github.io). [Notacje](https://github.com/nruchlewicz/Techniki-lab)
 1. Samsoniuk, Damian
 1. Skowroński, Mateusz
 1. Tomasik, Przemysław
